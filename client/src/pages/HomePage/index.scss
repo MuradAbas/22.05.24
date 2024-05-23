@@ -1,0 +1,25 @@
+#home-page{
+    background-image: url("https://preview.colorlib.com/theme/coloshop/images/slider_1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 19rem;
+    .home-page{
+        
+         h1 {
+            font-size: 5rem;
+            display: flex;
+            flex-direction: column;
+         }
+
+         .shop{
+            padding: 10px 20px;
+            background-color: brown;
+            color: white;
+            border: none;
+
+         }
+        
+        
+    }
+}
